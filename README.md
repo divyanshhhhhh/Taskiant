@@ -11,7 +11,7 @@
 - **Smart Filtering**: Easily toggle between 'Completed', 'Remaining', and 'All' tasks to stay organized.
 - **Rich Notes**: Add detailed notes to tasks with a clean, unobtrusive UI (expandable, max 1500 chars).
 - **Quick Actions**: Global shortcut (`Ctrl+Alt+A`) to capture ideas instantly from anywhere in Windows.
-- ** Midnight UI**: A beautiful, deep dark theme designed to reduce eye strain.
+- **Midnight UI** : A beautiful, deep dark theme designed to reduce eye strain.
 
 ##  Tech Stack
 
